@@ -19,6 +19,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## 📖 Table of Contents
 
+<details>
+<summary> Overview </summary>
+<p>
+
 - [`Introduction`](1.Intro.md)
 - [`Server`](2.server.md)
 - [`Controllers`](3.controllers.md)
+- [`providers`](4.providers.md)
+
+</p>
+</details>
